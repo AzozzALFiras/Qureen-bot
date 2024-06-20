@@ -10,8 +10,8 @@ use Illuminate\Support\Facades\Log;
 
 class TelegramController extends Controller
 {
-
-private $token = '7165126648:AAFztBxTjC9MRUz9j7WaDVrsprt5X5cDAjg';
+// ur token without bot like 8732489346:ufwegbq9egebg .etc
+private $token = '';
 private $soura = [
 'الفاتحة' => '001',
 'البقرة' => '002',
